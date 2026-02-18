@@ -1,0 +1,18 @@
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.VC.db
+*.opensdf
+*.sdf
+*.log
+
+# Rider
+.idea/
+cmake-build-*/
+
+# Mac
+.DS_Store
